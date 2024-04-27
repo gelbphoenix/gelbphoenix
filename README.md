@@ -11,4 +11,5 @@
 -----------------------------------------------
 
 ## Skills
-<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode&perline=3" />
+![](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode&perline=3&theme=light#gh-dark-mode-only)
+![](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode&perline=3#gh-light-mode-only)

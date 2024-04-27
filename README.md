@@ -11,4 +11,4 @@
 -----------------------------------------------
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode)
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode" />

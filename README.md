@@ -11,5 +11,5 @@
 -----------------------------------------------
 
 ## Skills
-![](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode&perline=3&theme=light#gh-dark-mode-only)
-![](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode&perline=3#gh-light-mode-only)
+[![Skills-Light](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode&perline=3&theme=light)](https://github.com/gelbphoenix/gelbphoenix/#gh-dark-mode-only)
+[![Skills-Dark](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode&perline=3)](https://github.com/gelbphoenix/gelbphoenix/#gh-light-mode-only)

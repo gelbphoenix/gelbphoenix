@@ -11,6 +11,4 @@
 -----------------------------------------------
 
 ## Skills
-<p align='left'>
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode)
-</p>
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,remix,github,linux,vscode)

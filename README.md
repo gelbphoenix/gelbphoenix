@@ -8,5 +8,5 @@
 
 ## Skills
 <img
-  src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,github,linux"
+  src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,github,linux,docker"
 />

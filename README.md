@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/mastodon/follow/113493029581474383?domain=https%3A%2F%2Fsocial.gelbphoenix.de&style=for-the-badge&logo=mastodon&labelColor=1c1917&color=6364ff" />
 </a>
 
+<a href="https://blog.gelbphoenix.de/#/portal/signup" target="_blank" rel="me noreferrer noopener">
+  <img src="https://img.shields.io/badge/Ghost-000?logo=ghost" \>
+</a>
+
 ---
 
 ## Skills

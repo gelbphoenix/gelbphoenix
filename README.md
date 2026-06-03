@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/mastodon/follow/113493029581474383?domain=https%3A%2F%2Fsocial.gelbphoenix.de&style=for-the-badge&logo=mastodon&labelColor=1c1917&color=6364ff" />
 </a>
 
-<a href="https://blog.gelbphoenix.de/#/portal/signup" target="_blank" rel="me noreferrer noopener" style="margin-inline-start: 5px;">
-  <img src="https://img.shields.io/badge/Ghost-000?logo=ghost" \>
-</a>
+[![blog.gelbphoenix.de](https://img.shields.io/badge/blog.gelbphoenix.de-000?logo=ghost)](https://blog.gelbphoenix.de/#/portal/signup)
+[![Support on Liberapay](https://img.shields.io/badge/Support_on-Liberapay-yellow.svg?logo=liberapay&)](https://liberapay.com/gelbphoenix)
+[![Support on Patreon](https://img.shields.io/badge/Support_on-Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/gelbphoenix)
 
 ---
 

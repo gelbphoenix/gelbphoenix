@@ -7,8 +7,11 @@
 </a>
 
 [![blog.gelbphoenix.de](https://img.shields.io/badge/blog.gelbphoenix.de-000?logo=ghost)](https://blog.gelbphoenix.de/#/portal/signup)
-[![Support on Liberapay](https://img.shields.io/badge/Support_on-Liberapay-yellow.svg?logo=liberapay&)](https://liberapay.com/gelbphoenix)
-[![Support on Patreon](https://img.shields.io/badge/Support_on-Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/gelbphoenix)
+[![gelbphoenix.de](https://img.shields.io/badge/Webpage-4673E4?logo=homepage&logoColor=white)](https://blog.gelbphoenix.de/#/portal/signup)
+
+[![Support on Liberapay](https://img.shields.io/badge/Support_on-Liberapay-yellow.svg?logo=liberapay&)](https://gelbphoenix.link/liberapay)
+[![Support on Patreon](https://img.shields.io/badge/Support_on-Patreon-F96854?logo=patreon&logoColor=white)](https://gelbphoenix.link/patreon)
+[![Support on Ko-Fi](https://img.shields.io/badge/Support_on-Ko%E2%80%93fi-FF5A16?logo=ko-fi&logoColor=white)](https://gelbphoenix.link/ko-fi)
 
 ---
 

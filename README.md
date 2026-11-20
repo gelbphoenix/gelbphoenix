@@ -6,12 +6,16 @@
   <img src="https://img.shields.io/mastodon/follow/113493029581474383?domain=https%3A%2F%2Fsocial.gelbphoenix.de&style=for-the-badge&logo=mastodon&labelColor=1c1917&color=6364ff" />
 </a>
 
-[![blog.gelbphoenix.de](https://img.shields.io/badge/blog.gelbphoenix.de-000?logo=ghost)](https://blog.gelbphoenix.de/#/portal/signup)
+<a href="https://blog.gelbphoenix.de/#/portal/signup" target="_blank" rel="noreferrer noopener">
+  <img src="https://img.shields.io/badge/Join-blog.gelbphoenix.de-000?logo=ghost" />
+</a>
+
 [![gelbphoenix.de](https://img.shields.io/badge/Webpage-4673E4?logo=homepage&logoColor=white)](https://blog.gelbphoenix.de/#/portal/signup)
 
-[![Support on Liberapay](https://img.shields.io/badge/Support_on-Liberapay-yellow.svg?logo=liberapay&)](https://gelbphoenix.link/liberapay)
+[![Support on Liberapay](https://img.shields.io/badge/Support_on-Liberapay-yellow.svg?logo=liberapay&logoColor=white)](https://gelbphoenix.link/liberapay)
 [![Support on Patreon](https://img.shields.io/badge/Support_on-Patreon-F96854?logo=patreon&logoColor=white)](https://gelbphoenix.link/patreon)
 [![Support on Ko-Fi](https://img.shields.io/badge/Support_on-Ko%E2%80%93fi-FF5A16?logo=ko-fi&logoColor=white)](https://gelbphoenix.link/ko-fi)
+[![Support on BuyMeACoffee](https://img.shields.io/badge/Support_on-Buy_Me_A_Coffee-FFDD00?logo=buymeacoffee&logoColor=white)](https://gelbphoenix.link/buymeacoffee)
 
 ---
 
@@ -25,5 +29,5 @@
 
 ## Featured Project
 
-<a href="https://github.com/Jean28518/libre-workspace" ><img width=50 src="https://github.com/Jean28518/libre-workspace/raw/refs/heads/main/libre-workspace-logo.svg" /></a>
-<a href="https://github.com/gelbphoenix/autocaliweb" ><img width=50 src="https://github.com/gelbphoenix/autocaliweb/raw/refs/heads/main/cps/static/icon-light.svg" /></a>
+<a href="https://codeberg.org/Libre_Workspace/libre-workspace" ><img width=50 src="https://codeberg.org/Libre_Workspace/libre-workspace/raw/branch/main/libre-workspace-logo.svg" /></a>
+<a href="https://codeberg.org/gelbphoenix/autocaliweb" ><img width=50 src="https://codeberg.org/gelbphoenix/autocaliweb/raw/branch/main/cps/static/icon-light.svg" /></a>
